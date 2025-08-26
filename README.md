@@ -7,7 +7,7 @@ I wanted to design a portable machine that would allow all of the artists partic
 
 After researching a few different types of kinematics I decided on a 5-bar SCARA linkage to allow the final build to be extremely compact, as it would need to fit in a backpack.
 
-I decided to implement this with a custom klipper kinematics module, as klipper has a very solid motion framework to easily build off of.
+I decided to implement this with a [custom klipper kinematics module](https://github.com/Juniper-Rueter/klipper-fivebar-kinematics), as klipper has a very solid motion framework to easily build off of.
 
 The project is comprised of an RP2040 mcu with two tmc2209 stepper drivers, an Orange Pi Zero2, a USB C PD module set to 20V, a buck converter stepped down to 5V for servo and LED power, and a mg996r servo for actuating the pen.
 
