@@ -9,7 +9,7 @@ After researching a few different types of kinematics I decided on a 5-bar SCARA
 
 I decided to implement this with a [custom klipper kinematics module](https://github.com/Juniper-Rueter/klipper-fivebar-kinematics), as klipper has a very solid motion framework to easily build off of.
 
-The project is comprised of an RP2040 mcu with two tmc2209 stepper drivers, an Orange Pi Zero2, a USB C PD module set to 20V, a buck converter stepped down to 5V for servo and LED power, and a mg996r servo for actuating the pen.
+The project is comprised of an RP2040 mcu with two tmc2209 stepper drivers, an Orange Pi Zero2, a USB C PD module set to 20V, a buck converter stepped down to 5V for servo and SBC power, and a mg996r servo for actuating the pen.
 
 While this project can certainly be recreated at home, this was made under a budget constraint of almost nothing, so part selections are suboptimal due to me simply working with spare parts from other projects outside of thrust bearings, the buck converter, and the servo.
 
