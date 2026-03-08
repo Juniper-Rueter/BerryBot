@@ -13,7 +13,7 @@ The project is comprised of an RP2040 mcu with two tmc2209 stepper drivers, an O
 
 While this project can certainly be recreated at home, this was made under a budget constraint of almost nothing, so part selections are suboptimal due to me simply working with spare parts from other projects outside of thrust bearings, the buck converter, and the servo.
 
-Please contact me at [brueter918@gmail.com](mailto:brueter918@gmail.com) with any questions or employment opportunities
+Please contact me at [brueter918@gmail.com](mailto:brueter918@gmail.com) with any questions
 
 https://private-user-images.githubusercontent.com/17199514/482409792-19ccdb06-dd16-4221-a085-c397013af91c.webm?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTYyNTE2NTEsIm5iZiI6MTc1NjI1MTM1MSwicGF0aCI6Ii8xNzE5OTUxNC80ODI0MDk3OTItMTljY2RiMDYtZGQxNi00MjIxLWEwODUtYzM5NzAxM2FmOTFjLndlYm0_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgyNlQyMzM1NTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hNGIzYTVhMTdiMzVlZjAxNzc0NWY2ZjQ2ZmQ4MmEyYjMxOTNhYzYwMzEwN2MxZTViOGRiZWJjYWIwYWM0NmFhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.-WmtJH76abINl-dGzuM94408Jzq0QI8Te_IKrnYZju4
 
